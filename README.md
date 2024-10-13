@@ -8,7 +8,7 @@ My dream is to become a highly qualified specialist in this field.
 - I'm currently learning **TypeScript, Next.js**
 - I speak English
 - Know about my experiences [CV](https://ulyanovsk.hh.ru/resume/719e3f50ff0cfb49df0039ed1f39547534374b)
-- Reach me by [mail](mailto:nikaazizova64@gmail.com) , [Telegram](@Del_Luna04)
+
 
 ## Languages and Tools
 
